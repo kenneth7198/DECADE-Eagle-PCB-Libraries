@@ -1,0 +1,18 @@
+DECADE-Eagle-PCB-Libraries
+==========================
+
+DECADE Eagle PCB Libraries include:
+
+1. ATMEGA64M1 QFN32
+2. AT24C256-10Ti-2.7
+3. BT2540 see http://
+4. BTSmart2540 see http://
+5. DS1307
+6. LED Segment 7
+7. MAX1811
+8. MCP6004
+9. SM16716/WS2811 ESOP8
+10. TLC5940
+11. TPS75833
+12. UCS2912
+13. UCS2912 DIP
