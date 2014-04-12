@@ -17,7 +17,7 @@ DECADE Eagle PCB Libraries include:
 12. UCS2912
 13. UCS2912 DIP
 14. ATMEGA32U4
-15. CC2540/41
+15. CC2540 / CC2541 VQFN
 16. 74HC08
 17. 74LVC125A
 18. ATMEGA32u2
@@ -37,9 +37,7 @@ te1=&cate2=&cate3=&pid=1193
 30. LM1085 KTT3
 31. Switch button from Taiwan Jin Hua Electronic
 32. CSD25302Q2
-33. BM-S02 See:
-http://item.taobao.com/item.htm?id=36062113967
-34. CC2540/CC2541 VQFN
-35. Connector 5.08mm pitch 1x2
-36. Connector 5.08mm pitch 1x3
-37. H1102NL
+33. BM-S02 See:http://item.taobao.com/item.htm?id=36062113967
+34. Connector 5.08mm pitch 1x2
+35. Connector 5.08mm pitch 1x3
+36. H1102NL
